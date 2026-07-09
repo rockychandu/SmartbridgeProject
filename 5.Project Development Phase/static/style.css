@@ -1,0 +1,36 @@
+body{
+    background:#27F5DA;
+    font-family:Arial;
+}
+
+.container{
+    width:400px;
+    margin:40px auto;
+    background:#37E6A6;
+    padding:25px;
+    border-radius:10px;
+    text-align:center;
+    box-shadow:0 0 10px gray;
+}
+
+input{
+    width:90%;
+    padding:10px;
+    margin:8px;
+}
+
+button{
+    padding:10px 20px;
+    background:green;
+    color:white;
+    border:none;
+    cursor:pointer;
+}
+
+button:hover{
+    background:darkgreen;
+}
+
+h2{
+    color:green;
+}
